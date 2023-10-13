@@ -18,7 +18,7 @@
         background-attachment: fixed;
             }
     </style>
-    </head>
+    
 
 </head>
 <body>
