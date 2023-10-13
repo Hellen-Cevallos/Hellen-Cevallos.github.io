@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/5b/34/d8/5b34d837314a582205acd5a873fe7598.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200 px;
+
+
+}
+
+img.com{
+    
+    background-image: url(imagen/HELLEN.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 500px;
+
+}
